@@ -3,6 +3,7 @@ import { StreamChat } from "stream-chat";
 import { Chat } from "stream-chat-react";
 import { Cookie } from "universal-cookie";
 import { ChannelListContainer, ChannelContainer } from "./components";
+import './App.css'
 
 const apiKey = 'scate8uhj85b'
 
